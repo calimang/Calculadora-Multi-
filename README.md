@@ -17,4 +17,6 @@ Instruções de Uso:
 
 Este projeto é uma demonstração simples de programação em C# e lógica de controle de fluxo. Fique à vontade para explorar o código-fonte e contribuir com melhorias ou adicionar novas funcionalidades.
 
-Desenvolvido por [Seu Nome].
+Desenvolvido por Gustavo Caliman
+
+https://www.linkedin.com/in/gustavo-caliman-974866202/
